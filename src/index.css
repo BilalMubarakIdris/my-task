@@ -68,7 +68,8 @@ button{
   border: none;
   color: #fff;
   border-radius: 5px;
-  margin: 0.5em
+  margin: 0.5em;
+  cursor: pointer;
 }
 
 @media(max-width: 600px){
